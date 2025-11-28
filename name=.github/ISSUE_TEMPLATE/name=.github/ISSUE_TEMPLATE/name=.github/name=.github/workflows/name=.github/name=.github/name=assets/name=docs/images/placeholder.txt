@@ -1,0 +1,2 @@
+This folder is for images referenced by README (e.g., demo.png).
+Add screenshots or animated GIFs here and update README.md to reference them.
